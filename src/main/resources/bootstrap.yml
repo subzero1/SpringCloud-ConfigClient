@@ -1,5 +1,3 @@
-server:
-  port: 3302
 spring:
   application:
     name: config-single-client
